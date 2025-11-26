@@ -1,20 +1,22 @@
-🐧 Introduction
+# 🐧 **Introduction**
 
-This repository contains a collection of Bash automation scripts created as part of my Red Hat System Administration (RH124 & RH134) training.
-These scripts focus on real-world Linux system administration tasks such as process monitoring, USB event tracking, user session logging, MOTD automation, and idle-session management.
+This repository contains a collection of **Bash automation scripts** created as part of my *Red Hat System Administration (RH124 & RH134)* training.
 
-Each script is designed to demonstrate core SysAdmin skills including:
+These scripts demonstrate practical, real-world skills in **Linux system administration**, covering:
 
-Shell scripting
+- **Process monitoring**
+- **USB event detection**
+- **User session logging**
+- **Dynamic MOTD generation**
+- **Idle session detection and termination**
+- **System auditing & automation**
 
-System automation
+Each script highlights essential SysAdmin concepts such as:
 
-Log management
+- *Shell scripting*  
+- *Cron-based automation*  
+- *System logging & log rotation awareness*  
+- *User & process management*  
+- *Security-oriented monitoring*  
 
-Cron job scheduling
-
-Process and session handling
-
-Security and auditing practices
-
-The goal of this project is to showcase practical Linux administration capabilities while building tools that can assist in everyday system maintenance, monitoring, and automation.
+The purpose of this project is to provide hands-on, functional tools that reflect core competencies required in system administration while showcasing my progress throughout the Red Hat training modules.
